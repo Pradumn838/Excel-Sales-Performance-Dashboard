@@ -28,38 +28,57 @@ Target Hit %
 Away From Target %
 
 
-**🛠️ Tools & Excel Skills
-**
+🛠️ Tools & Excel Skills:
+
 Microsoft Excel
+
 Data Cleaning & Formatting
+
 Excel Formulas
+
 Pivot Tables
+
 Charts & Visualizations
+
 Conditional Formatting
+
 Filters / Interactive Analysis
+
 KPI Reporting
 
 
-📈 Key Analysis
+📈 Key Analysis:
 The dashboard focuses on:
 
 Total Sales
+
 Sales Target
+
 Target Achievement %
+
 Performance by Sales Executive
+
 Regional Performance
+
 Top and Bottom Performers
+
 Gap from Target
+
 Daily Sales Performance
 
 
-🎯 Dashboard Features
+🎯 Dashboard Features:
 
 Interactive regional filtering
+
 Sales performance comparison
+
 Target achievement analysis
+
 KPI summary
+
 Visual charts
+
 Executive-level performance tracking
 
 
@@ -68,8 +87,13 @@ Executive-level performance tracking
 The objective is to transform raw sales data into an easy-to-understand dashboard that can help management:
 
 Monitor sales performance
+
 Identify high and low performers
+
 Track target achievement
+
 Compare regional performance
+
 Identify performance gaps
+
 Support data-driven decision-making
