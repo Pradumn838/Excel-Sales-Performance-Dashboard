@@ -28,8 +28,8 @@ Target Hit %
 Away From Target %
 
 
-🛠️ Tools & Excel Skills
-
+**🛠️ Tools & Excel Skills
+**
 Microsoft Excel
 Data Cleaning & Formatting
 Excel Formulas
