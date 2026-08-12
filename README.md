@@ -9,7 +9,6 @@ This project uses sales data from 141 sales executives across different regions.
 The project demonstrates practical Excel skills including data analysis, KPI tracking, dashboard creation, and data visualization.
 
 🗂️ Dataset
-
 The dataset contains:
 
 Employee Code
@@ -20,7 +19,10 @@ Total Sales
 Target
 Target Hit %
 Away From Target %
+
+
 🛠️ Tools & Excel Skills
+
 Microsoft Excel
 Data Cleaning & Formatting
 Excel Formulas
@@ -29,8 +31,9 @@ Charts & Visualizations
 Conditional Formatting
 Filters / Interactive Analysis
 KPI Reporting
-📈 Key Analysis
 
+
+📈 Key Analysis
 The dashboard focuses on:
 
 Total Sales
@@ -41,13 +44,18 @@ Regional Performance
 Top and Bottom Performers
 Gap from Target
 Daily Sales Performance
+
+
 🎯 Dashboard Features
+
 Interactive regional filtering
 Sales performance comparison
 Target achievement analysis
 KPI summary
 Visual charts
 Executive-level performance tracking
+
+
 💡 Business Objective
 
 The objective is to transform raw sales data into an easy-to-understand dashboard that can help management:
