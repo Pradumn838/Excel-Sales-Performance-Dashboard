@@ -12,12 +12,19 @@ The project demonstrates practical Excel skills including data analysis, KPI tra
 The dataset contains:
 
 Employee Code
+
 Sales Executive
+
 Region
+
 Day 1 to Day 5 Sales
+
 Total Sales
+
 Target
+
 Target Hit %
+
 Away From Target %
 
 
